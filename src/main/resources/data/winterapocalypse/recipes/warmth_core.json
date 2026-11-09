@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CGC",
+    "GSG",
+    "CGC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:coal"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "item": "winterapocalypse:frost_shard"
+    }
+  },
+  "result": {
+    "item": "winterapocalypse:warmth_core",
+    "count": 1
+  }
+}

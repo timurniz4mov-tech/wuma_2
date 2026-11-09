@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "FWF",
+    "WXW",
+    "FWF"
+  ],
+  "key": {
+    "F": {
+      "item": "winterapocalypse:frost_shard"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "X": {
+      "item": "winterapocalypse:winter_hat"
+    }
+  },
+  "result": {
+    "item": "winterapocalypse:blizzard_hood",
+    "count": 1
+  }
+}
